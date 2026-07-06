@@ -1,0 +1,8 @@
+print("student information")
+name=input("enter student name:")
+roll=input("enter roll number:")
+section=input("enter class/section:")
+print("\n student details")
+print("name:",name)
+print("roll number:",roll)
+print("class/section:",section)
